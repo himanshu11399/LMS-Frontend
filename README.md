@@ -3,6 +3,9 @@
 A **role-based Learning Management System (LMS) mobile application** built using **React Native (Expo)**.  
 The app provides **separate dashboards for Admin, Mentor, and Student**, focusing on **clean UI, modern UX, and scalable architecture**.
 
+--<img width="949" height="630" alt="image" src="https://github.com/user-attachments/assets/3e7a3ca2-d69d-4f53-8674-b6f4b2d5b06f" />
+
+
 ---
 
 ## 🚀 Features
